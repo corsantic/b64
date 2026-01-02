@@ -1,4 +1,4 @@
-use b64::{decode_from_base64, encode_to_base64, process_args};
+use b64_cli::{decode_from_base64, encode_to_base64, process_args};
 
 #[test]
 fn test_encode() {

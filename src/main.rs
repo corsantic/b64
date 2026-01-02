@@ -1,6 +1,6 @@
 use std::env;
 
-use b64::process_args;
+use b64_cli::process_args;
 
 
 fn main() {
