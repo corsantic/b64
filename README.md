@@ -1,10 +1,20 @@
-# b64
+# b64-cli
 
 A simple and fast command-line tool for encoding and decoding base64 strings.
 
 ## Installation
 
+Install from [crates.io](https://crates.io/crates/b64-cli):
+
 ```bash
+cargo install b64-cli
+```
+
+Or install from source:
+
+```bash
+git clone https://github.com/corsantic/b64-cli
+cd b64-cli
 cargo install --path .
 ```
 
