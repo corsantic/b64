@@ -2,6 +2,14 @@
 name = "b64"
 version = "0.1.0"
 edition = "2024"
+authors = ["Furkan AYDIN"]
+description = "A simple and fast command-line tool for encoding and decoding base64 strings"
+license = "MIT"
+repository = "https://github.com/corsantic/b64"
+homepage = "https://github.com/corsantic/b64"
+readme = "README.md"
+keywords = ["base64", "cli", "encoder", "decoder", "command-line"]
+categories = ["command-line-utilities", "encoding"]
 
 [dependencies]
 base64 = "0.21.0"
