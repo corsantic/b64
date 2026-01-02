@@ -1,7 +1,7 @@
 [package]
 name = "b64-cli"
-version = "0.1.0"
-edition = "2024"
+version = "0.1.1"
+edition = "2021"
 authors = ["Furkan AYDIN"]
 description = "A simple and fast command-line tool for encoding and decoding base64 strings"
 license = "MIT"
