@@ -19,7 +19,7 @@ pub fn process_args(args: &[String]) -> String {
 
     let result = process_input(process, input);
 
-    print!("{}", result);
+    println!("{}", result);
     result
 }
 
